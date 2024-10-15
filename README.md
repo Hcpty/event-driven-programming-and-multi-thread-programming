@@ -8,4 +8,4 @@ A note about Event-driven Step-arranged Programming.
 - 第二个特点，程序通过注册事件处理器的嵌套层次反映执行任务的步骤。
 
 ### Credits
-- [Event-driven programming - Wikipedia](https://www.wikipedia.org/wiki/Event-driven_programming)
+- [Event-driven programming - Wikipedia](https://en.wikipedia.org/wiki/Event-driven_programming)
