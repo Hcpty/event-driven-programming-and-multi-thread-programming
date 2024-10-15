@@ -5,7 +5,7 @@ A note about Event-driven Step-arranged Programming.
 
 Event-driven是指程序中存在事件侦听器，当其侦听到注册事件发生时，会调用对应的注册事件处理器，程序通过这种方式来完成任务。
 
-Step-arranged是指程序会通过注册事件处理器的嵌套层次反映处理事件的步骤。
+Step-arranged是指程序会通过注册事件处理器的嵌套层次反映其处理每一种事件的步骤。
 
 ### Credits
 - [Event-driven programming - Wikipedia](https://en.wikipedia.org/wiki/Event-driven_programming)
