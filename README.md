@@ -8,4 +8,4 @@ A note about Event-driven Step-arranged Programming.
 由于发生时刻未知，同时还要遵守处理步骤，所以一种很自然的方式就在注册事件处理器中嵌套注册事件处理器。
 
 ### Credits
-- [Event-driven programming - Wikipedia](https://en.wikipedia.org/wiki/Event-driven_programming)
+- [Don’t call us, we’ll call you.](https://vertx.io/docs/vertx-core/java/#_dont_call_us_well_call_you)
