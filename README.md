@@ -1,11 +1,11 @@
 # Readme
 A note about Event-driven Step-arranged Programming.
 
-现实是由事件驱动的，对于每一个事件，其发生时刻都是不可知的，然而对于每一种事件，其处理步骤都是可知的。
+现实是由事件驱动、步骤编排的。对于每一个事件，其发生时刻都是未知的，同时，对于现实中的每一种事件，其处理步骤都是可知的。
 
-Event-driven是指应用程序中存在事件复用器，当事件复用器侦听到注册事件发生时，事件分用器会调用对应的注册事件处理器，应用程序通过这种方式来完成任务。
+因为发生时刻未知，所以可以通过事件复用器集中侦听事件，当注册事件发生时，由事件分用器来调用注册事件处理器。
 
-Step-arranged是指应用程序会通过注册事件处理器的嵌套层次反映其处理每一种事件的步骤。
+由于发生时刻未知，同时要遵守处理步骤，所以最自然的方式就在注册事件处理器中嵌套注册事件处理器。
 
 ### Credits
 - [Event-driven programming - Wikipedia](https://en.wikipedia.org/wiki/Event-driven_programming)
