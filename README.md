@@ -1,7 +1,7 @@
 # Readme
 A note about Event-driven Step-arranged Programming.
 
-### 事件驱动、步骤编排编程
+### Event-drive Step-arranged Programming
 
 现实是由事件驱动、步骤编排的。一方面，对于每一个事件，其发生时刻都是未知的，另一方面，对于每一种事件，其处理步骤都是可知的。
 
