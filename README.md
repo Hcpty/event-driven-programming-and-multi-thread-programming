@@ -10,4 +10,5 @@ A note about Event-Driven Step-Arranged Programming.
 因为发生时刻未知，同时要遵守处理步骤，所以一种自然的方式在注册事件处理器中嵌套注册事件处理器。
 
 ### Credits
-- [Don’t call us, we’ll call you.](https://vertx.io/docs/vertx-core/java/#_dont_call_us_well_call_you)
+- [Don’t call us, we’ll call you. - Vert.x](https://vertx.io/docs/vertx-core/java/#_dont_call_us_well_call_you)
+- [Asynchronous flow control - Node.js](https://nodejs.org/en/learn/asynchronous-work/asynchronous-flow-control)
