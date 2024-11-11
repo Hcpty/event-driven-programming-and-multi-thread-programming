@@ -1,7 +1,11 @@
 # Readme
-A note about Multi-Thread Programming and Event-Driven Programming.
+A note about Multi-Threaded Programming and Event-Driven Programming.
 
-### Event-Driven Step-Arranged Programming
+### Multi-Threaded Programming and Event-Driven Programming
+
+##### Multi-Threaded Programming
+
+##### Event-Driven Programming
 
 现实是由事件驱动、步骤编排的。一方面，对于每一个事件，其发生时刻都是未知的，另一方面，对于每一种事件，其处理步骤都是可知的。
 
