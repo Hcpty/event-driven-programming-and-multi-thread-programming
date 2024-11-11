@@ -1,5 +1,5 @@
 # Readme
-A note about Event-Driven Step-Arranged Programming.
+A note about Multi-Thread Programming and Event-Driven Programming.
 
 ### Event-Driven Step-Arranged Programming
 
