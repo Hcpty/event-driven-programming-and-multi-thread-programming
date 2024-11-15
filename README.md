@@ -1,5 +1,4 @@
-# Readme
-A note about Multi-Threaded Programming and Event-Driven Programming.
+# Multi-Threaded Programming and Event-Driven Programming
 
 ## Multi-Threaded Programming and Event-Driven Programming
 - Multi-threaded programming is good at handling parallel computing tasks, but is bad at handling event waiting tasks.
